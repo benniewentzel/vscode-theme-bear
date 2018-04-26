@@ -1,0 +1,22 @@
+{
+    "name": "vscode-theme-bear",
+    "displayName": "vscode-theme-bear",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "benjaminwentzel",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bear Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Bear Theme-color-theme.json"
+            }
+        ]
+    }
+}
